@@ -1,0 +1,24 @@
+name: StaffMode
+version: 1.0
+main: me.koz.staffmode.StaffMode
+loadbefore: [VanishAPI]
+api-version: 1.13
+commands:
+  mod:
+    description: Toggle staff mode.
+    aliases: [staff]
+  sc:
+    description: Toggle staff chat.
+  freeze:
+    description: Freeze a player.
+  ptp:
+    description: Teleport to random players.
+  clearchat:
+    description: Clear the chat.
+    aliases: [cc]
+  invsee:
+    description: View a players inventory.
+  onlinestaff:
+    description: Open online-staff gui.
+  mutechat:
+    description: Global chat mute.

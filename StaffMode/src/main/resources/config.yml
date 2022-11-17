@@ -1,0 +1,8 @@
+Prefix: "&8<&c&lMod&8> &c"
+Freezeip: "&c█&6███&0█&6███&c█ &7input ip"
+
+
+MuteChat:
+  muted-message: "&cA server wide chat mute has been enabled by &a%player%"
+  un-muted-message: "&cThe server wide chat mute has been disabled by &a%player%"
+  chat-is-muted-message: "&cChat is currently muted"
