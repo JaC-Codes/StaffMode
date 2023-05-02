@@ -1,0 +1,7 @@
+name: KotlinPlugin
+api-version: 1.16
+Author: Jack/Snowey
+version: 0.1
+main: net.jack.kplugin.Core
+commands:
+  staffmode:
